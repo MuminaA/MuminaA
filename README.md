@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://muminaa.github.io/Personal-Portfolio/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Javascript in depth**
 
 - 📫 How to reach me **muminaabdi13@gmail.com**
 
