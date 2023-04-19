@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Mumina Abdi</h1>
 <h3 align="center">A passionate frontend developer based in Michigan</h3>
 
-- 🔭 I’m currently working on [Halima Illustrations](https://muminaa.github.io/HalimaillustrationsProject/)
+- 🔭 I’m currently working on [Ecommerce project](https://github.com/MuminaA/Ecommerce-project)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **muminaabdi13@gmail.com**
 
 - ⚡ Fun fact **I like video games**
+
+- 🎮 I'm currently playing **Hogwarts Legacy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
