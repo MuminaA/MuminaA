@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I like video games**
 
-- 🎮 I'm currently playing **Hogwarts Legacy**
+- 🎮 I'm currently playing **The walking dead telltale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
