@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I like video games**
 
-- 🎮 I'm currently playing **Heavy Rain**
+- 🎮 I'm currently playing **Mafia: Definitive Edition**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
