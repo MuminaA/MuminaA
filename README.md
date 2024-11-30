@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **muminaabdi13@gmail.com**
-
 - ⚡ Fun fact **I like video games**
 
 - 🎮 I'm currently playing **Heavy Rain**
